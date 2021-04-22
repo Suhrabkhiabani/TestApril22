@@ -1,0 +1,8 @@
+stepDefinitions\RetailPageTestStepDefinitions.class
+stepDefinitions\LoginTestStepDefinition.class
+stepDefinitions\DataBaseStepDefinition.class
+stepDefinitions\LaptopAndNoteBookStepDefinitions.class
+stepDefinitions\RetailPageLoginTestStepDefinition.class
+stepDefinitions\Initializer.class
+stepDefinitions\Monday.class
+runner\TestRunner.class
